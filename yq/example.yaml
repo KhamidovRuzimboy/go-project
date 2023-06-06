@@ -1,0 +1,28 @@
+---
+# Hashtag (#) belgisini qator boshiga qo'yish o'sha liniyani
+# comment ga aylantiradi va bu parser (YAML faylni analiz qiladigan
+# componenta) tomonidan ignarirovat qilinadi.
+team: devopsUz
+domain:
+ - devops
+ - devsecops
+ - kubernetes
+tutorial:
+  - yaml:
+      name: "YAML Ain't Markup Language"
+      type: fast
+      born: 2006
+      extension:
+         - .yaml
+         - .yml
+  - json:
+      name: JavaScript Object Notation
+      type: fast
+      born: 2002
+      extension: .json
+  - xml:
+      name: Extensible Markup Language
+      type: slow
+      born: 1996
+      extension: .xml
+published: true

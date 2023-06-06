@@ -1,0 +1,27 @@
+ism: Farruh
+yosh: 25
+manzil:
+  kocha: beruniy
+  raqami: 15
+  mahalla: kimyogarlar
+malumot: oliy
+mehnatFaoliyati:
+- korxona: startUp
+  lavozim: devops engineer
+  davomiyligi: 3
+  manzil: Toshkent
+- korxon: Net
+  lavozim: Lead engineer
+  davomiyligi: 5
+  manzil: Toshkent
+- korxon: Google
+  lavozim: Architect
+  davomiyligi: 1
+  manzil: Seattle
+qisqachaMalumot: |
+  Bu tekstni yozishimdan maqsad, mana shunaqa uzun, bir nechta qatorli string text
+  qanday qilib yozilishini ko'rsatmoqchi edim. Agar oddiy/qisqa string bo'lganda edi
+  shunchaki qisqachaMalumot: abc deb yozsak bo'lardi. Ammo bu holatda abc emas uzun
+  tekst o'sha uchun | (pipe) belgisni ishlatyapmiz va keyingi qatordan yozib boshladik.
+  Salom so'zi qayerdan boshlanganiga ham etibor bering. qisqachaMalumot ni tagidan
+  emas, indentation (yani o'ngga surib) yozyapmiz.
